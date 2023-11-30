@@ -1,0 +1,14 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Moje Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "liveserver": "live-server"
+  },
+  "author": "Tomasz Pękala",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
