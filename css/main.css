@@ -48,8 +48,11 @@
     color: #fff;
     font-weight: bold;
 }
+.btnCategory-main {
+  background: #47b3a8;
+}
 .btnCategory:hover {
-  background: #1abc9c;
+  background: #0d6451;
 }
 
 @media only screen and (max-width: 670px) {
