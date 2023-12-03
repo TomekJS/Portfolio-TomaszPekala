@@ -109,7 +109,7 @@ singleButton = buttonArr.forEach((btn) =>{
                            <h2 class="text-center">Opis</h2>
                         </div>
                           <div class="modal-body">
-                          <p>Jedną z moim pasji jest programowanie, z powodów zdrowotnym musiałem zaprzestać chwilowo kodowanie. W czasie nauki wykonałem wiele projektów, oto niektóre z nich:
+                          <p>Jedną z moim pasji jest programowanie, z powodów zdrowotnym musiałem zaprzestać chwilowo kodowanie. Ponownie wróciłem do programowania i mam plan dla przyjemności stworzyć jakieś większe aplikacje w różnych technologiach. Zawsze brakowało mi kolegi / koleżanki z którym mógłbym dzielić tą pasję, W czasie nauki wykonałem wiele projektów, oto niektóre z nich:
 
                           <p>
                             <a href="https://tomaszpekala231.github.io/CounterCalorie/" >Kalkulator kalorii</a>
@@ -118,6 +118,8 @@ singleButton = buttonArr.forEach((btn) =>{
                           <p>
                           <a href="https://tomaszpekala231.github.io/Photobuy" >Sklepik w czystym Javascript</a>
                           </p>
+
+                          <p>Ponownie wróciłem do programowania i myślę dla przyjemności stworzyć jakieś większe aplikacje w różnych technologiach. Zawsze brakowało mi kolegi / koleżanki z którym mógłbym dzielić tą pasję. Jeśli masz również interesujesz się tą dziedziną to zapraszam do kontaktu.</p>
 
                       </div>
                         <div class="modal-footer">
