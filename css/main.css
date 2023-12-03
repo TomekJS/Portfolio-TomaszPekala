@@ -87,6 +87,12 @@
     animation-duration: 0.4s
   }
   
+  @media screen and (max-width: 900px) {
+    .modal-content {
+      width: 75%;
+    }
+  }
+
   /* Add Animation */
   @-webkit-keyframes animatetop {
     from {top:-300px; opacity:0} 
@@ -133,3 +139,5 @@
     color: white;
     justify-content: center;
   }
+
+ D
