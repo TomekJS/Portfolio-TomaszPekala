@@ -28,12 +28,21 @@
 .facebook-link { 
     font-weight: bold;
     text-decoration: none;
-    color:blue;
+    color:#6666ff;
     padding: 0 2px;
 }
+.text-blue {
+  background: #0078ca;
+}
 .facebook-link:hover {
-    color: blue;
+    color: #5a5af3;
     text-decoration: underline;
+}
+
+.skype-link, .email-link {
+  color: #6666ff;
+  pointer-events: none;
+  text-decoration: none;
 }
 .text-center {
   text-align: center;;
@@ -144,5 +153,3 @@
     color: white;
     justify-content: center;
   }
-
- D

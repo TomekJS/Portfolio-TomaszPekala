@@ -152,7 +152,7 @@ singleButton = buttonArr.forEach((btn) =>{
                          <h2 class="text-center">Opis</h2>
                       </div>
                         <div class="modal-body">
-                       Od wielu lat moją wielką pasją są języki obce. Znam takie języki w stopniu swobodnej komunikacji jak: polski(ojczysty), angielski, niemiecki. Cały czas staram się utrzymywać poziomy tych języków. Obecnie uczę się hiszpańskiego, a w przyszłości chcę się nauczyć rosyjskiego. Chętnie poznałbym osoby, które mają tą samą pasję co ja. Moglibyśmy my wspólnie się uczyć języków wzajemnie na różne sposoby. Wyjście na wspólną kawę, a jeśli mieszkasz gdzieś daleko od mojego miejsca zamieszkania Moglibyśmy się komunikować przez Skype (<b>live:.cid.6bc8ae100d81e9d8<b/> | Tomasz Pękala foreign languages)
+                       Od wielu lat moją wielką pasją są języki obce. Znam takie języki w stopniu swobodnej komunikacji jak: polski(ojczysty), angielski, niemiecki. Cały czas staram się utrzymywać poziomy tych języków. Obecnie uczę się hiszpańskiego, a w przyszłości chcę się nauczyć rosyjskiego. Chętnie poznałbym osoby, które mają tą samą pasję co ja. Moglibyśmy my wspólnie się uczyć języków wzajemnie na różne sposoby. Wyjście na wspólną kawę, a jeśli mieszkasz gdzieś daleko od mojego miejsca zamieszkania Moglibyśmy się komunikować przez Skype.
                     </div>
                       <div class="modal-footer">
                         <h3></h3>
