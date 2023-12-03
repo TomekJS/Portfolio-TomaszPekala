@@ -119,7 +119,7 @@ singleButton = buttonArr.forEach((btn) =>{
                           <a href="https://tomaszpekala231.github.io/Photobuy" >Sklepik w czystym Javascript</a>
                           </p>
 
-                          <p>Ponownie wróciłem do programowania i myślę dla przyjemności stworzyć jakieś większe aplikacje w różnych technologiach. Głównie interesuje mnie Web Development.Zawsze brakowało mi kolegi / koleżanki z którym / którą mógłbym dzielić tą pasję. Jeśli  również interesujesz się tą dziedziną to zapraszam do kontaktu.</p>
+                          <p>Ponownie wróciłem do programowania i myślę dla przyjemności stworzyć jakieś większe aplikacje w różnych technologiach. Głównie interesuje mnie Web Development. Zawsze brakowało mi kolegi / koleżanki z którym / którą mógłbym dzielić tą pasję. Jeśli  również interesujesz się tą dziedziną to zapraszam do kontaktu.</p>
 
                       </div>
                         <div class="modal-footer">
