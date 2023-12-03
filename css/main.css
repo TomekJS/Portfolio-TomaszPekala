@@ -49,12 +49,14 @@
     font-weight: bold;
 }
 .btnCategory-main {
-  background: #47b3a8;
+  background: #b38447;
 }
 .btnCategory:hover {
   background: #0d6451;
 }
-
+.btnCategory-main:hover {
+  background: #422806;
+}
 @media only screen and (max-width: 670px) {
   .btnCategory {
     margin-top: 10px;

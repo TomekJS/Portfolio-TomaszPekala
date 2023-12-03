@@ -93,7 +93,7 @@ singleButton = buttonArr.forEach((btn) =>{
                            <h2 class="text-center">Opis</h2>
                         </div>
                           <div class="modal-body">
-                          <p>Przez wiele lat pracowałem jako magazynier. Zawsze gdy szedłem do pracy to traktowałem ją jakby, to była moja własna firma. Starałem się dawać z siebie wszystko dla dobra firma. Pewnego razu zastanowiłem się co mógłbym zrobić, by wnieść wartość przedsiębiorstwu. Wymyśliłem kilka pomysłów, a następnie wydrukowałem je i zaniosłem kierownikowi. On wybrał jedną najlepszą i wprowadził w życie przez co przedsiębiorstwo zyskało korzyść.
+                          <p>Przez wiele lat pracowałem jako magazynier. Zawsze gdy szedłem do pracy to traktowałem ją jakby, to była moja własna firma. Starałem się dawać z siebie wszystko dla dobra firmy. Pewnego razu zastanowiłem się co mógłbym zrobić, by wnieść wartość przedsiębiorstwu. Wymyśliłem kilka pomysłów, a następnie wydrukowałem je i zaniosłem kierownikowi. On wybrał jedną najlepszą i wprowadził w życie przez co przedsiębiorstwo zyskało korzyść.
                       </div>
                         <div class="modal-footer">
                           <h3></h3>
@@ -136,13 +136,29 @@ singleButton = buttonArr.forEach((btn) =>{
                            <h2 class="text-center">Opis</h2>
                         </div>
                           <div class="modal-body">
-                         Już w wieku 16 lat zacząłem się interesować rozwojem osobistym. Powodem było to, że byłem bardzo słaby z dziewczynami, tak beznadziejny jak tylko możesz sobie wyobrazić. Zawsze wszelkie zaproszenia znajomych na imprezę budziły we mnie wielki strach. To nie tak tylko, że nie umiałem zainteresować sobą dziewczyn, ale ogólnie bardzo bałem się ludzi i całą młodość spędzałem przed komputerem, zamiast spędzać czas z pozytywnymi osobami i się rozwijać. W pewnym momencie podjąłem twardą decyzję, że stanę się najlepszą wersją samego siebie i zrobie wszystko co konieczne by się rozwinąć i stać się dobry z kobietami. Wiem dobrze jaki to wielki ból, gdy nie potrafi się zainteresować dziewczyny sobą albo gdy nie ma się wyboru. Wiem, że gdybym miał kogoś z kim razem mógłym wychodzić, szybciej bym się rozwinął i oszczędził sobie wiele łez i smutku. Dawniej podejście z intencją poznania dziewczyny w galerii, parku, przystanku, ulicy itp. wydawało się kompletnie niemożliwe. Dzisiaj nie mam z tym problemu. Dzięki drodze rozwoju stałem się pewniejszy siebie i z łatwością mogę to wykorzystać w innych dziedzinach życia Jeśli jesteś w podobnej sytuacji i chcesz się rozwijać skontaktuj się ze mną, napewno na współpracy ze mną skorzystasz. Wszystko uzgodniliby my razem wspólnie co, gdzie i kiedy. Pełna dyskrecja z mojej strony.
+                         Już w wieku 16 lat zacząłem się interesować rozwojem osobistym. Powodem było to, że byłem bardzo słaby z dziewczynami, tak beznadziejny jak tylko możesz sobie wyobrazić. Zawsze wszelkie zaproszenia znajomych na imprezę budziły we mnie wielki strach. To nie tak tylko, że nie umiałem zainteresować sobą dziewczyn, ale ogólnie bardzo bałem się ludzi i całą młodość spędzałem przed komputerem, zamiast spędzać czas z pozytywnymi osobami i się rozwijać. W pewnym momencie podjąłem twardą decyzję, że stanę się najlepszą wersją samego siebie i zrobie wszystko co konieczne by się rozwinąć i stać się dobry z kobietami. Wiem dobrze jaki to wielki ból, gdy nie potrafi się zainteresować dziewczyny sobą albo gdy nie ma się wyboru. Wiem, że gdybym miał kogoś z kim razem mógłym wychodzić, szybciej bym się rozwinął i oszczędził sobie wiele łez i smutku. Dawniej podejście z intencją poznania dziewczyny w galerii, parku, przystanku, ulicy itp. Wydawało mid się kompletnie niemożliwe. Dzisiaj nie mam z tym problemu. Dzięki drodze rozwoju stałem się pewniejszy siebie i z łatwością mogę to wykorzystać w innych dziedzinach życia Jeśli jesteś w podobnej sytuacji i chcesz się rozwijać skontaktuj się ze mną, napewno na współpracy ze mną skorzystasz. Wszystko uzgodniliby my razem wspólnie co, gdzie i kiedy. Pełna dyskrecja z mojej strony.
                       </div>
                         <div class="modal-footer">
                           <h3></h3>
                          </div>
                       </div> `
         }
+        else if( idNumber === getButtonNumber & getButtonNumber === 4) {
+          modal.style.display ="block"
+          modal.innerHTML = 
+          `<div class="modal-content">
+                       <div class="modal-header">
+                         <span class="close">&times;</span>
+                         <h2 class="text-center">Opis</h2>
+                      </div>
+                        <div class="modal-body">
+                       Od wielu lat moją wielką pasją są języki obce. Znam takie języki w stopniu swobodnej komunikacji jak: polski(ojczysty), angielski, niemiecki. Cały czas staram się utrzymywać poziomy tych języków. Obecnie uczę się hiszpańskiego, a w przyszłości chcę się nauczyć rosyjskiego. Chętnie poznałbym osoby, które mają tą samą pasję co ja. Moglibyśmy my wspólnie się uczyć języków wzajemnie na różne sposoby. Wyjście na wspólną kawę, a jeśli mieszkasz gdzieś daleko od mojego miejsca zamieszkania Moglibyśmy się komunikować przez Skype (<b>live:.cid.6bc8ae100d81e9d8<b/> | Tomasz Pękala foreign languages)
+                    </div>
+                      <div class="modal-footer">
+                        <h3></h3>
+                       </div>
+                    </div> `
+      }
     }
     
 })
